@@ -1,0 +1,8 @@
+{
+  "agent_id": "699d7148bcfb5ae590f1ee95",
+  "agent_name": "Friend Agent",
+  "model": "gpt-4.1",
+  "provider": "openai",
+  "temperature": 0.85,
+  "top_p": 0.95
+}

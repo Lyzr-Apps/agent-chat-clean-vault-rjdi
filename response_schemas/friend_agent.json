@@ -1,0 +1,16 @@
+{
+  "agent_name": "Friend Agent",
+  "agent_type": "json",
+  "accessor": "result.response.result",
+  "has_module_outputs": false,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "response": {
+        "type": "string",
+        "description": "The friendly conversational response from the AI friend"
+      }
+    },
+    "required": ["response"]
+  }
+}

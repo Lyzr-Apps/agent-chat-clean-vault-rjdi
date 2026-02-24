@@ -1,0 +1,14 @@
+{
+  "agent_name": "Friend Agent",
+  "agent_id": "699d7148bcfb5ae590f1ee95",
+  "description": "A warm, empathetic, and witty conversational AI friend. Engages in casual chat, provides emotional support, shares humor, and offers general life advice. Maintains conversational context using memory for natural, flowing dialogue.",
+  "agent_type": "json",
+  "accessor": "result",
+  "auto_generated": true,
+  "response_schema": {
+    "response": "string"
+  },
+  "example_response": {
+    "response": "The friendly conversational response from the AI friend"
+  }
+}
